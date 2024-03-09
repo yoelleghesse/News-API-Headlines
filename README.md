@@ -4,7 +4,7 @@ Example: To get top headlines from the United States:
 
 ``print(get_news(country='us'))``
 
-You need to obtain an API key from the News API [newsapi]([url](https://newsapi.org/)) and replace the default API key in the script with your own key for authentication.
+You need to obtain an API key from the News API [newsapi](https://newsapi.org/) and replace the default API key in the script with your own key for authentication.
 
 The script returns a list of dictionaries, each containing the title and description of a top headline article.
 
